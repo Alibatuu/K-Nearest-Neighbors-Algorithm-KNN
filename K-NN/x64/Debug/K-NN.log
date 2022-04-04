@@ -1,0 +1,8 @@
+﻿  Calculate.cpp
+C:\Users\Ali Batuhan\source\repos\K-NN\K-NN\Calculate.cpp(27,9): warning C4101: 'y': yerel değişken başvurusu kaldırıldı
+C:\Users\Ali Batuhan\source\repos\K-NN\K-NN\Calculate.cpp(26,9): warning C4101: 'x': yerel değişken başvurusu kaldırıldı
+  K-NN.cpp
+  Point.cpp
+C:\Users\Ali Batuhan\source\repos\K-NN\K-NN\Point.cpp(22,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  K-NN.vcxproj -> C:\Users\Ali Batuhan\source\repos\K-NN\x64\Debug\K-NN.exe

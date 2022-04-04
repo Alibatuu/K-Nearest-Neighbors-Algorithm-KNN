@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+Graph.obj : error LNK2019: çözümlenmemiş dış sembol "public: __thiscall cv::Mat::Mat(int,int,int,class cv::Scalar_<double> const &)" (??0Mat@cv@@QAE@HHHABV?$Scalar_@N@1@@Z) için "public: void __thiscall Graph::drawGraph(class std::vector<class Distance,class std::allocator<class Distance> >)" (?drawGraph@Graph@@QAEXV?$vector@VDistance@@V?$allocator@VDistance@@@std@@@std@@@Z) işlevinde başvuruldu
+Graph.obj : error LNK2019: çözümlenmemiş dış sembol "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) için "public: void __thiscall Graph::drawGraph(class std::vector<class Distance,class std::allocator<class Distance> >)" (?drawGraph@Graph@@QAEXV?$vector@VDistance@@V?$allocator@VDistance@@@std@@@std@@@Z) işlevinde başvuruldu
+D:\opencv\build\x64\vc15\lib\opencv_world454d.lib : warning LNK4272: 'x64' kitaplık makine türü, 'x86' hedef makine türüyle çakışıyor
+C:\Users\Ali Batuhan\source\repos\K-NN\Debug\K-NN.exe : fatal error LNK1120: 2 çözümlenmemiş dışlar
